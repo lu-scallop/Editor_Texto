@@ -1,6 +1,9 @@
 # Projeto Editor de Texto: C# e SQLite
 
 Esse software de Editor de Texto foi feito no Visual Studio no Windows Forms na linguagem C#. Utilizei o SQLite para criar o banco de dados.
+<p align="center">
+  <img width="670" height="470" src="media/gif1.gif" >
+</p>
 
 É um software que permite ao usuário digitar e salvar textos. Também é possível personalizar os textos alterando o alinhamento (esquerda, centro e direita),
 o estilo da fonte (negrito, itálico e sublinhado) e a cor do texto. 
